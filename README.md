@@ -1,4 +1,4 @@
-# Développement Mobile 
+# Developpement Mobile 
 
 ### Membre
 Aubert Enzo
@@ -19,10 +19,13 @@ Le tableau de recette est vide sur mobile car lors de la génération de l'appli
 Télécharger "Dev_Mobile_TD.apk" depuis le lien dropbox ci-dessous puis l'installer sur un téléphone android.
 
 ### Informations
-Problèmes rencontrés :
-	La version Windev Mobile Express bloque certaines fonctionnalités nécessaires pour les TDs.
+### Problèmes rencontrés :
+    La version Windev Mobile Express bloque certaines fonctionnalités nécessaires pour les TDs.
+
 	Upload du projet sur github (Trop de fichiers) --> Solution : Upload l'application sous forme d'APK avec des vidéos de démonstrations.
+	
 	Fichier de données ne se charge pas sur mobile mais se charge sur l'emulateur Windev Mobile. (Solution : Faire un ajout manuel en passant par le bouton ajouter.)
+	
 	Image ne se charge pas en mobile car le chemin d'image est dirigé vers le chemin d'images du projet sur PC.
 
 	
